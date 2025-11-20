@@ -4,9 +4,9 @@
 Se realizó un analisis de negocio para obtener metricas de usuario (dau, wau y mau). Economia unitaria por cliente (LTV). De los diferentes canales de publicidad, determinar cual era el mas costoso Vs el mas economico (CAC). Y finalmente el ROMI total (rendimiento de la campaña).
 
 ## 🎯 Objetivos
-Manipulación de datos (data wrangling).
-Métricas de usuario.
-Economía unitaria.
+-Manipulación de datos (data wrangling).
+-Métricas de usuario.
+-Economía unitaria.
 
 ## 📊 Datasets Utilizados
 '/datasets/visits_log_us.csv'
