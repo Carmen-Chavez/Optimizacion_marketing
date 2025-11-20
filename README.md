@@ -1,30 +1,30 @@
-🖥️ Análisis de negocio; diferentes fuentes de marketing (9)
+# 🖥️ Análisis de negocio; diferentes fuentes de marketing (9)
 
-📋 Descripción
+## 📋 Descripción
 Se realizó un analisis de negocio para obtener metricas de usuario (dau, wau y mau). Economia unitaria por cliente (LTV). De los diferentes canales de publicidad, determinar cual era el mas costoso Vs el mas economico (CAC). Y finalmente el ROMI total (rendimiento de la campaña).
 
-🎯 Objetivos
+## 🎯 Objetivos
 Manipulación de datos (data wrangling).
 Métricas de usuario.
 Economía unitaria.
 
-📊 Datasets Utilizados
+## 📊 Datasets Utilizados
 '/datasets/visits_log_us.csv'
 '/datasets/orders_log_us.csv'
 ('/datasets/costs_us.csv'
 
-🔧 Tecnologías
+## 🔧 Tecnologías
 Entorno de desarrollo:
 
 Jupyter Notebook.
 Python 3.9.19.
-Líbrerias:
+### Líbrerias:
 Pandas.
 Matplotlib.
 Seaborn.
 Numpy
 
-📈 Conclusión
+## 📈 Conclusión
 Visitas
 Las visitas diarias de usuarios unicos fueron (dau) 364, las visitas semanales de usuarios unicos fueron (wau) 52 y finalmente las visitas mensuales de usuarios unicos fueron (mau) 12. En promedio hay 1.08 sesiones por usuario al día y la duración promedio (en segundos) es de 643.5. El porcentaje con la que los usuarios regresan va del 1.9% al 8.5%.
 
