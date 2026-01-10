@@ -1,4 +1,4 @@
-# 🖥️ Análisis de negocio; diferentes fuentes de marketing (9)
+# 🖥️ Análisis de negocio; diferentes fuentes de marketing
 
 ## 📋 Descripción
 Se realizó un analisis de negocio para obtener metricas de usuario (dau, wau y mau). Economia unitaria por cliente (LTV). De los diferentes canales de publicidad, determinar cual era el mas costoso Vs el mas economico (CAC). Y finalmente el ROMI total (rendimiento de la campaña).
